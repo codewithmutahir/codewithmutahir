@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img height="400px" width="90%" src="https://c4.wallpaperflare.com/wallpaper/923/289/124/java-programmer-coder-by-pcbots-wallpaper-preview.jpg"  />
+</div>
 <h1 align="center">Hi 👋, I'm Mutahir hussain</h1>
 <h3 align="center">Experienced WordPress & Web Developer with a passion for crafting exceptional digital experiences. With over 2 years of hands-on experience, I've had the privilege of working on numerous projects and web applications, honing my skills in front-end and back-end development, as well as mastering various technologies and frameworks.</h3>
 
@@ -74,10 +76,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/mutahirhussain"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mutahirhussain" /></a></p><br><br>
-
-<div align="left" style="display:block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithmutahir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmutahir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
