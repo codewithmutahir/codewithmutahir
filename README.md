@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="400px" width="90%" src="https://c4.wallpaperflare.com/wallpaper/923/289/124/java-programmer-coder-by-pcbots-wallpaper-preview.jpg"  />
-</div>
 <h1 align="center">Hi 👋, I'm Mutahir hussain</h1>
 <h3 align="center">Experienced WordPress & Web Developer with a passion for crafting exceptional digital experiences. With over 2 years of hands-on experience, I've had the privilege of working on numerous projects and web applications, honing my skills in front-end and back-end development, as well as mastering various technologies and frameworks.</h3>
 
