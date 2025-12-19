@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mutahir hussain</h1>
-<h3 align="center">Experienced WordPress & MERN Developer with a passion for crafting exceptional digital experiences. With over 3+ years of hands-on experience, I've had the privilege of working on numerous projects and web applications, honing my skills in front-end and back-end development, as well as mastering various technologies and frameworks.</h3>
+<h3 align="center">Experienced WordPress & Backend Developer with a passion for crafting exceptional digital experiences. With over 3+ years of hands-on experience, I've had the privilege of working on numerous projects and web applications, honing my skills in front-end and back-end development, as well as mastering various technologies and frameworks.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/codewithmutahir](https://github.com/codewithmutahir)
+- 👨‍💻 All of my projects are available at [https://github.com/codewithmutahir](https://mutahir.qzz.io))
 
 - 💬 Ask me about **your development queries & and confusions**
 
