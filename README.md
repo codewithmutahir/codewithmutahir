@@ -52,4 +52,4 @@ Remote roles with early-stage startups where I can own real features and work cl
 
 - Portfolio: [mutahir.qzz.io](https://mutahir.qzz.io)
 - Email: [info@mutahir.qzz.io](mailto:info@mutahir.qzz.io)
-- LinkedIn: [linkedin.com/in/mutahirhussain](https://linkedin.com/mutahir-hussain-825a64396)
+- LinkedIn: [linkedin.com/in/mutahirhussain](https://linkedin.com/in/mutahir-hussain-825a64396)
