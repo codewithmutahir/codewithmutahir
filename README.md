@@ -6,10 +6,10 @@ These days I mostly work with **Next.js, React, TypeScript and Supabase**, and r
 
 ## What I've been building
 
-- **[Elitebase](https://elitebase.elitesolutionusa.com)**: a kiosk clock-in and time-tracking SaaS where staff verify their face on a tablet. Next.js, Supabase, React Native (Expo), FastAPI.
-- **Tripleseats**: a multi-tenant catering platform, live with a catering client. Quote builder with PDF export, Clover payments, role-based access and Google Calendar sync. Next.js, Express, Prisma, PostgreSQL.
+- **[Elitebase](https://elitebase.elitesolutionusa.com)**: A kiosk clock-in and time-tracking SaaS where staff verify their face on a tablet. Next.js, Supabase, React Native (Expo), FastAPI.
+- **[Tripleseats](https://tripleseat.hussaincatering.com)**: A multi-tenant catering platform, live with a catering client. Quote builder with PDF export, Clover payments, role-based access and Google Calendar sync. Next.js, Express, Prisma, PostgreSQL.
 - **AlliancePay**: an Android POS for convenience stores with PAX POSLink2 payments, refunds, EBT and receipt printing.
-- **[AI Resume Builder](https://resume.elitesolutionusa.com)**: a free resume builder on Next.js.
+- **[AI Resume Builder](https://resume.elitesolutionusa.com)**: A free resume builder in react.js with live preview
 
 I also maintain a Clover payment plugin for a live WooCommerce store, and build custom WordPress, WooCommerce, Shopify and Laravel sites for clients.
 
